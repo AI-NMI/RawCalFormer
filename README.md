@@ -1,6 +1,6 @@
 # RG-MVT
 
-RG-MVT combines full-detector multi-view restoration (FD-MVT) with protocol-factored reconstruction-gradient calibration (PF-RGC), followed by matched FDK reconstruction and slice fusion for low-dose CT restoration.
+RG-MVT combines a Full-Detector Multi-View Transformer (FD-MVT) with protocol-factored reconstruction-gradient calibration (PF-RGC), followed by matched FDK reconstruction and slice fusion for low-dose CT restoration.
 
 Code, configurations, and pretrained weights have not yet been released. The workflow below describes the planned interface.
 
